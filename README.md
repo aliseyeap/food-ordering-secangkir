@@ -136,4 +136,4 @@ http://localhost/coffee-blend/admin-panel/admins/login-admins.php
 Developed by @aliseyeap.
 
 ### 📄 License
-This project is for educational and demonstration purposes.
+This project is developed for academic purposes and is not intended for commercial distribution. Please consult the authors for reuse or enhancement.
